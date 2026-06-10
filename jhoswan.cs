@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace pryCalculadora
 {
-    internal class JhoswanCH
+    internal class jhoswan
     {
-        ///Estuve aqui
+        //jhoawan estuvo aqui
     }
 }

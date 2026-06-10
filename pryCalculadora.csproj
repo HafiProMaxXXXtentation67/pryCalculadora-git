@@ -54,7 +54,7 @@
     <Compile Include="frmCalculadora.Designer.cs">
       <DependentUpon>frmCalculadora.cs</DependentUpon>
     </Compile>
-    <Compile Include="JhoswanCH.cs" />
+    <Compile Include="jhoswan.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmCalculadora.resx">
